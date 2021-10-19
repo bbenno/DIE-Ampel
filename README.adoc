@@ -1,0 +1,5 @@
+= DIE Ampel
+Benno Bielmeier <benno.bielmeier@st.othr.de>
+
+DIE Ampel zeigt die Vibes in der FSIM an.
+Mehr Informationen gibt wird es nicht geben! Deal with it.
